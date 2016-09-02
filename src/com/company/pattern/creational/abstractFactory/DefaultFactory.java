@@ -12,7 +12,7 @@ import com.company.pattern.creational.abstractFactory.objectsToCreate.tank.Defau
 import com.company.pattern.creational.abstractFactory.objectsToCreate.tank.Tank;
 
 /**
- * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) on 08.06.2016.
+ * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) doAction 08.06.2016.
  */
 public class DefaultFactory implements IUnitsFactory {
     @Override

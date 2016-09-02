@@ -11,7 +11,7 @@ import com.company.pattern.creational.abstractFactory.IUnitsFactory;
 import com.company.pattern.creational.abstractFactory.Level1PlayerFactory;
 
 /**
- * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) on 08.06.2016.
+ * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) doAction 08.06.2016.
  */
 public class Tester {
     public static void main(String[] args) {

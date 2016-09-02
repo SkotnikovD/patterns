@@ -12,7 +12,7 @@ import com.company.pattern.creational.abstractFactory.objectsToCreate.tank.Level
 import com.company.pattern.creational.abstractFactory.objectsToCreate.tank.Tank;
 
 /**
- * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) on 08.06.2016.
+ * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) doAction 08.06.2016.
  */
 public class Level1PlayerFactory implements IUnitsFactory {
     @Override

@@ -7,9 +7,9 @@ package com.company.pattern.creational.abstractFactory.objectsToCreate.tank;
  *********************************/
 
 /**
- * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) on 08.06.2016.
+ * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) doAction 08.06.2016.
  */
-public class DefaultTank extends Tank {
+public class DefaultTank implements Tank {
     public void attack(){
         System.out.println("DefaultTank attacking!");
     }

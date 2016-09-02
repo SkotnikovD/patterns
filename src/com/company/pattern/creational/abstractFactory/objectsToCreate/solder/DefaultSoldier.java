@@ -7,9 +7,9 @@ package com.company.pattern.creational.abstractFactory.objectsToCreate.solder;
  *********************************/
 
 /**
- * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) on 08.06.2016.
+ * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) doAction 08.06.2016.
  */
-public class DefaultSoldier extends Soldier {
+public class DefaultSoldier implements Soldier {
     public void attack(){
         System.out.println("DefaultSolder attacking!");
     }

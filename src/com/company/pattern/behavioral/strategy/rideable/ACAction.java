@@ -7,8 +7,8 @@ package com.company.pattern.behavioral.strategy.rideable;
  *********************************/
 
 /**
- * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) on 18.09.2015.
+ * @author Dmitry Skotnikov (DSkotnikov@nvision-group.com) doAction 18.09.2015.
  */
-public interface Rideable {
-    public void ride();
+public interface ACAction {
+    public void doAction();
 }
